@@ -2,7 +2,7 @@
 JAVA İLE OTOMASYON PROJESİ
 YMG ödevi kapsamında  Sinema Otomasyon sistemi oluşturacağım.Veritabanı olarak MySQL kullanacağım.
 
-Veritabanı adı : moviereservation
+Veritabanı adı : sinemaotomasyon
 TABLOLAR
 -users -filmekle -bilet
 
